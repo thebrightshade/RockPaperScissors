@@ -1,2 +1,2 @@
 # RockPaperScissors
-A game of Rock Paper Scissors
+A game of Rock Paper Scissors - Play till you either win or lose.
