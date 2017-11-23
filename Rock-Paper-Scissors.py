@@ -59,7 +59,7 @@ def compare(p1, p2):
             if replay == "Y":
                 p1 = (input("Please select one: Rock(R), Paper(P) or Scissors(S): ")).upper()
                 p2 = random.sample({"R", "P", "S"}, 1)
-                compare(p1,p2)
+                compare(p1, p2)
 
         elif p2[0] == "R":
             print("You win! Paper beats rock.")
